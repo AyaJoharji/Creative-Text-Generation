@@ -30,7 +30,7 @@ When interacting with the Gradio interface, you can expect:
 ## Project Page
 Visit the [Hugging Face Project Page][https://huggingface.co/spaces/ayajoharji/Tuwaiq_Assignment_1]()
 ## Video Walkthrough
-For a detailed walkthrough of the project, including explanations of the code and demonstrations of the Gradio interface, watch [video guide]()
+For a detailed walkthrough of the project, including explanations of the code and demonstrations of the Gradio interface, watch [https://www.loom.com/share/3427080f899b4bbda21f6015e1f2f7d7?sid=578d73af-dbf7-441d-81f3-779016b5f786]()
 
 
    
