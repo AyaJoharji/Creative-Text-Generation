@@ -28,7 +28,7 @@ When interacting with the Gradio interface, you can expect:
 - An output box displaying the generated text.
 
 ## Project Page
-Visit the [Hugging Face Project Page]([https://huggingface.co/spaces/ayajoharji/Tuwaiq_Assignment_1])
+Visit the [Hugging Face Project Page][https://huggingface.co/spaces/ayajoharji/Tuwaiq_Assignment_1]()
 ## Video Walkthrough
 For a detailed walkthrough of the project, including explanations of the code and demonstrations of the Gradio interface, watch [video guide]().
 
